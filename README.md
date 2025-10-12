@@ -20,7 +20,7 @@ This repo contains my tweaks, themes, and optimizations built on top of his base
 
 <!-- ---
 
-## ⚙️ Features & Tweaks
+##  Features & Tweaks
 
 - Transparent terminal and blur effects  
 - Custom keybindings for window management  
@@ -31,7 +31,7 @@ This repo contains my tweaks, themes, and optimizations built on top of his base
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 *(Add screenshots of your rice here — `pics/` folder maybe?)*
 
@@ -39,7 +39,7 @@ This repo contains my tweaks, themes, and optimizations built on top of his base
 
 ## Installation
 
-> ⚠️ This setup assumes you’re running Arch or an Arch-based distro with Hyprland already installed.
+> This setup assumes you’re running Arch or an Arch-based distro with Hyprland already installed.
 
 1. Clone the repo:
    ```bash
