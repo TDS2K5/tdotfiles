@@ -5,7 +5,7 @@ This repo contains my tweaks, themes, and optimizations built on top of his base
 
 ---
 
-## 🧩 Base Setup
+##  Base Setup
 
 - **Distro:** Arch Linux
 - **WM:** Hyprland
@@ -37,7 +37,7 @@ This repo contains my tweaks, themes, and optimizations built on top of his base
 
 --- -->
 
-## 📦 Installation
+## Installation
 
 > ⚠️ This setup assumes you’re running Arch or an Arch-based distro with Hyprland already installed.
 
