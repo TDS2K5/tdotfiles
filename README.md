@@ -1,7 +1,7 @@
 #  Arch Linux Hyprland Dotfiles
 
 Customized *Hyprland* setup on Arch Linux, inspired by [@JaKooLit](https://github.com/JaKooLit)’s *Hyprland* configs.
-This repo contains my tweaks built on top of his base.
+This repo contains tweaks built on top of his base.
 
 ---
 
@@ -43,5 +43,5 @@ This repo contains my tweaks built on top of his base.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git ~/dotfiles
+   git clone https://github.com/TDS2K5/tdotfiles.git 
    cd ~/dotfiles
