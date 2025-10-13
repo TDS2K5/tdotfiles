@@ -9,8 +9,7 @@
 	"interval": 10,
 	"tooltip": true,
 	"hwmon-path": [
-		"/sys/class/hwmon/hwmon1/temp1_input",
-		"/sys/class/thermal/thermal_zone0/temp"
+		"/sys/class/hwmon/hwmon4/temp1_input",
 	],
 	//"thermal-zone": 0,
 	"critical-threshold": 70,
@@ -19,6 +18,7 @@
 	"format-icons": [
 		"󰈸"
 	],
+	"on-click-left": "xsensors.sh",
 	"on-click-right": "$HOME/.config/hypr/scripts/WaybarScripts.sh --nvtop"
 },
 

@@ -51,4 +51,7 @@ export LC_ALL=en_IN.UTF-8
 alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 
 #vscode to codium
-alias code = 'vscodium'
+alias code='vscodium'
+
+#for hyprland reload/refresh
+alias waybar-reload='pkill waybar && hyprctl dispatch exec waybar'
