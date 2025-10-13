@@ -1,6 +1,6 @@
 #  Arch Linux Hyprland Dotfiles
 
-Customized *Hyprland* setup on Arch Linux, inspired by [@JaKooLit](https://github.com/JaKooLit)’s Hyprland configs.
+Customized *Hyprland* setup on Arch Linux, inspired by [@JaKooLit](https://github.com/JaKooLit)’s *Hyprland* configs.
 This repo contains my tweaks built on top of his base.
 
 ---
