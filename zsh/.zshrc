@@ -49,3 +49,6 @@ export LC_ALL=en_IN.UTF-8
 
 #for grub setting update
 alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
+
+#vscode to codium
+alias code = 'vscodium'

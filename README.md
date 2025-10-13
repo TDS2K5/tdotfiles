@@ -1,18 +1,18 @@
 #  Arch Linux Hyprland Dotfiles
 
-My customized setup of **Hyprland** on **Arch Linux**, inspired by [@JaKooLit](https://github.com/JaKooLit)’s awesome Hyprland configs.  
-This repo contains my tweaks, themes, and optimizations built on top of his base.
+Customized *Hyprland* setup on Arch Linux, inspired by [@JaKooLit](https://github.com/JaKooLit)’s Hyprland configs.
+This repo contains my tweaks built on top of his base.
 
 ---
 
-##  Base Setup
+##  Setup
 
 - **Distro:** Arch Linux
 - **WM:** Hyprland
 - **Terminal:** Kitty
 - **Shell:** Zsh + Oh My Zsh
-- **Bar:** Waybar (customized)
-- **Launcher:** Rofi (depending on session)
+- **Bar:** Waybar
+- **Launcher:** Rofi 
 <!-- - **Notifications:** Mako -->
 - **File Manager:** Thunar/Dolphin
 - **Editor:** VS Codium/Kate
