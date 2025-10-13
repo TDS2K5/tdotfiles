@@ -14,8 +14,8 @@ This repo contains tweaks built on top of his base.
 - **Bar:** Waybar
 - **Launcher:** Rofi 
 <!-- - **Notifications:** Mako -->
-- **File Manager:** Thunar/Dolphin
-- **Editor:** VS Codium/Kate
+- **File Manager:** Thunar
+- **Editor:** VS Codium (Monokai)
 - **Compositor Effects:** Built into Hyprland (blur, shadows, animations)
 
 <!-- ---
@@ -44,4 +44,4 @@ This repo contains tweaks built on top of his base.
 1. Clone the repo:
    ```bash
    git clone https://github.com/TDS2K5/tdotfiles.git 
-   cd ~/dotfiles
+   cd ~/tdotfiles
