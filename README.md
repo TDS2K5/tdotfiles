@@ -12,8 +12,7 @@ This repo contains tweaks built on top of his base.
 - **Terminal:** Kitty
 - **Shell:** Zsh + Oh My Zsh
 - **Bar:** Waybar
-- **Launcher:** Rofi 
-<!-- - **Notifications:** Mako -->
+- **Launcher:** Rofi <!-- - **Notifications:** Mako -->
 - **File Manager:** Thunar
 - **Editor:** VS Codium (Monokai)
 - **Compositor Effects:** Built into Hyprland (blur, shadows, animations)
