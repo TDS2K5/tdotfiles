@@ -38,7 +38,7 @@ This repo contains tweaks built on top of his base.
 
 ## Installation
 
-> This setup assumes you’re running Arch or an Arch-based distro with Hyprland already installed.
+> This setup assumes you’re running Arch with Hyprland already installed.
 
 1. Clone the repo:
    ```bash
